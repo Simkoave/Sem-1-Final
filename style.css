@@ -1,0 +1,113 @@
+body{
+    background-color: rgb(139, 96, 9);
+}
+
+#intro{
+    width: 120px;
+    height: 120px;
+}
+
+div {
+    padding: 10px;
+    
+}
+
+.mysteryDiv {
+    position: relative;
+    left: 20px;
+   
+}
+
+.romanceDiv {
+    position:relative;
+    left: 250px;
+    bottom: 215px;
+   
+}
+
+.dystopianDiv {
+    position:relative;
+    left: 480px;
+    bottom: 445px;
+}
+
+.daDiv {
+    position: relative;
+    left: 140px;
+    bottom: 450px;
+}
+
+.fantasyDiv {
+    position: relative;
+    left: 370px;
+    bottom: 665px;
+}
+
+img{
+    height: 250px;
+    width: 200px;
+}
+
+#mystery{
+    background-color: rgb(5, 68, 25);
+}
+
+.mysteryRecs{
+    background-color: rgb(191, 236, 159);
+}
+
+.mysteryTxt{
+    color: white;
+}
+
+.romance{
+    background-color: lightpink;
+}
+
+.romanceRecs{
+    background-color: rgb(250, 147, 154);
+}
+
+.romanceTxt{
+    color: rgb(233, 96, 105)
+}
+
+.dystopian{
+    background-color:black;
+}
+
+.dystopianRecs{
+    background-color: gray;
+}
+
+.dystopianTxt{
+    color: white;
+}
+
+.daRecs{
+    background-color: rgb(126, 78, 1);
+}
+
+.fantasy{
+    background-color: rgba(0, 0, 139, 0.368);
+}
+
+.fantasyTxt{
+    color: white;
+}
+
+.fantasyRecs{
+    background-color: rgba(75, 75, 204, 0.88);
+}
+
+hr{
+    color: rgb(23, 14, 2);
+}
+
+.stars{
+    color:gold;
+}
+
+#chonkyLink{
+    font-size: large;
+}
